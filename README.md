@@ -23,6 +23,18 @@
   <a href="launch-film.mp4">⬇ 下载1080p60 MP4（含音效）</a>
 </p>
 
+## 🎥 60秒能力演示
+
+四段真实能力，全部对应书里的一手实测：开机装载129个插件 → 写入前的权限审批 → PTC让模型直接写程序编排工具（5次开口15次操作）→ 创造模式现场给自己造出第33个工具`count_chinese`，最后把整个终端拆成积木。
+
+<p align="center">
+  <a href="launch-film-60s.mp4"><img src="launch-film-60s-preview.jpg" width="88%" alt="60秒能力演示预览：开机 · PTC · 创造模式 · 拆开" /></a>
+</p>
+
+<p align="center">
+  <a href="launch-film-60s.mp4">▶ 观看60秒完整版（1080p60 MP4，含音效）</a>
+</p>
+
 ## 下载
 
 | 格式 | 文件 | 大小 |

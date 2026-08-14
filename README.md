@@ -35,6 +35,18 @@
   <a href="launch-film-60s.mp4">▶ 观看60秒完整版（1080p60 MP4，含音效）</a>
 </p>
 
+## 📑 杂志编辑风幻灯片（20页）
+
+不想读整本书？这套20页的杂志编辑风deck是全书的浓缩版：五个章节、进门四问、成本账单、44条事件、PTC、创造模式、拆开看架构，一页一个结论，适合快速过一遍或拿去做分享。
+
+<p align="center">
+  <a href="DeepSeek-Harness-Orange-Book-Magazine-Deck.pptx"><img src="magazine-deck-preview.jpg" width="88%" alt="杂志编辑风幻灯片预览：封面 · 事件流 · 创造模式 · 结论" /></a>
+</p>
+
+<p align="center">
+  <a href="DeepSeek-Harness-Orange-Book-Magazine-Deck.pptx">⬇ 下载PPTX（20页 · 11MB）</a>
+</p>
+
 ## 下载
 
 | 格式 | 文件 | 大小 |

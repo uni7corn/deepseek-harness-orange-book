@@ -116,6 +116,7 @@
 | 项目 | 简介 | 链接 |
 |------|------|------|
 | DeepSeek Harness Desktop | 为DSH生态做的桌面端，把Harness装进图形界面里跑。 | [GitHub](https://github.com/anywhere-labs/deepseek-harness-desktop) · [官网](https://dshdesktop.cn) |
+| Awesome DeepSeek Harness | DSH终极指南：快速入门、资源推荐、精选插件与工具，中英日三语。 | [GitHub](https://github.com/libukai/awesome-deepseek-harness) |
 
 ## 关于作者
 

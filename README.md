@@ -109,6 +109,14 @@
 
 完整合集见[huasheng.ai](https://www.huasheng.ai/)。
 
+## 友情链接
+
+同一个生态里的项目：
+
+| 项目 | 简介 | 链接 |
+|------|------|------|
+| DeepSeek Harness Desktop | 为DSH生态做的桌面端，把Harness装进图形界面里跑。 | [GitHub](https://github.com/anywhere-labs/deepseek-harness-desktop) · [官网](https://dshdesktop.cn) |
+
 ## 关于作者
 
 **花叔（HuaShu）** · AI Native Coder · 独立开发者

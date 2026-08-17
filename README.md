@@ -135,6 +135,14 @@
 
 **DeepSeek Harness: From First Boot to Teardown** (Chinese edition) — written within 24 hours of DeepSeek open-sourcing its agent harness (Aug 13, 2026, MIT license). The author — who has never hand-written a line of code — ran it end to end on his own machine and documented what the official docs don't show: the full system prompt, the 129-line default boot manifest, three unedited session logs, and a live recording of the AI building a new tool for itself (19 steps, tool list going from 32 to 33 lines). Chinese only for now.
 
+## 📚 在线阅读（WorkBuddy）
+
+本书已同步到 WorkBuddy 资料库：每章一个网页，也可以直接把链接丢给你的 Agent 当上下文。
+
+https://www.workbuddy.cn/space/d/XABVjoKqAElO
+
+全部橙皮书入口：https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
+
 ## 协议
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
